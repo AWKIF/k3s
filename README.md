@@ -63,7 +63,7 @@ Download helm:
 Then run:  
 ```helm init --service-account tiller```  
 
-Install your app then add the domain ```mytestk3s.deez.re``` to your ```/etc/hosts```, ie:    
+Install your app then add the domain to your ```/etc/hosts```, ie:    
 ```127.0.0.1	localhost mytestk3s.deez.re```  
 
 You should now be able to check your app in your browser, ie:  
