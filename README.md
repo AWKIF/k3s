@@ -1,5 +1,5 @@
 # k3s
-lightweight install of k8s + istio with haproxy on docker-composer
+lightweight install of k8s + istio with haproxy on docker-compose
 
 ## Prerequisites
 
